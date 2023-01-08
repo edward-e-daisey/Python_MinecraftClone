@@ -1,5 +1,3 @@
-ReadMe.md
-
 Project Title: Python Minecraft Clone
 
 Description: A clone of the popular game Minecraft. Executable; some elements of the game are in progress.
