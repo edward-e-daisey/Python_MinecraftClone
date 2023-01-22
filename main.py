@@ -15,7 +15,7 @@ brick_texture = load_texture('assets/brick_block.png')
 dirt_texture  = load_texture('assets/dirt_block.png')
 sky_texture   = load_texture('assets/skybox.png')
 arm_texture   = load_texture('assets/arm_texture.png')
-punch_sound   = Audio('assets/punch_sound',loop = False, autoplay = False)
+punch_sound   = Audio('assets/punch_sound.wav',loop = False, autoplay = False)
 block_pick = 1
 
 # Purpose - Allows user to pick block.
