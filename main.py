@@ -84,7 +84,7 @@ class Hand(Entity):
 	def passive(self):
 		self.position = Vec2(0.4,-0.6)
 
-# Purpose - Creates 100 x 100 Map.
+# Purpose - Creates 25 x 25 Map.
 for z in range(25):
 	for x in range(25):
 		voxel = Voxel(position = (x,0,z))
